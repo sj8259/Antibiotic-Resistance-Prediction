@@ -6,7 +6,7 @@ A clinical decision support tool developed with Machine Learning to predict anti
 Antimicrobial resistance is a critical global health challenge. This project leverages an ensemble of AI models (XGBoost & Random Forest) to provide data-driven predictions on whether a patient's sample will be Sensitive or Resistant to specific antibiotics.
 
 ### 🏠 App Interface
-![Home Screen](homeScreen.png)
+![Home Screen](home.png)
 
 ---
 
